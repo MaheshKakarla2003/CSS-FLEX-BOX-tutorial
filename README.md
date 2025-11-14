@@ -6,11 +6,17 @@ A responsive layout built with CSS Flexbox. It features a navigation bar and a c
 
 # What This Project Demonstrates
 display: flex
+
 justify-content: space-evenly
+
 align-items: center
+
 flex-direction: column
+
 gap
+
 Flex layout on the navigation bar and content cards
 # Usage
 Open index.html in a web browser to view the layout
+
 Resize the browser window to see the responsive behavior of the Flexbox design
