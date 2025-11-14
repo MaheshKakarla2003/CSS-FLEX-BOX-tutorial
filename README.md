@@ -19,4 +19,3 @@ Flex layout on the navigation bar and content cards
 # Usage
 Open index.html in a web browser to view the layout
 
-Resize the browser window to see the responsive behavior of the Flexbox design
